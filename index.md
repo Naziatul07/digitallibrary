@@ -5,7 +5,7 @@ Selamat Datang di Perpustakaan Digital
 Berikut ini adalah Koleksi yang dimiliki:
 
 ## Koleksi
-1. [Resume VR](ebook/Resume Virtual Reality_Fiki Naziatul Asna_13040123140122.pdf) - Fiki Naziatul Asna (2025)
+1. [Resume VR](ebook/Resume Virtual Reality_Fiki Naziatul Asna_13040123140122.pdf) - Fiki Naziatul Asna_13040123140122 (2025)
 2. [Ever Mine](ebook/Ever Mine Honey Mountain.pdf) - Laura Pavlov (2022)
 3. [Filsafat Berpikir Teknik-Teknik Berpikir](ebook/Filsafat Berpikir Teknik-Teknik Berpikir.pdf) - Ainur Rahman Hidayat (2018)
 4. [Sejarah Dunia yang Disembunyikan](ebook/Sejarah Dunia yang Disembunyikan.pdf) - Jonathan Black (2007)
