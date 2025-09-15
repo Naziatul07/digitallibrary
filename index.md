@@ -17,6 +17,5 @@ Berikut ini adalah Koleksi yang dimiliki:
 10. [Negeri di Ujung Tanduk](ebook/Negeri di Ujung Tanduk Tere Liye.pdf) - Tere Liye (2013)
 11. [The Year of Shadows](ebook/The Year of Shadows.pdf) - Claire Legrand (2013)
 12. [The Mars Room](ebook/The Mars Room by Rachel Kushner.pdf) - Rachel Kushner (2018)
----
 
 *Powered by GitHub Pages*
